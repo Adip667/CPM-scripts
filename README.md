@@ -1,4 +1,4 @@
-This repository contains various Python, Bash and Terraform script for N2WS product
+This repository contains various Python, Bash and Terraform script for N2WS product.
 These scripts are designed to enhance and automate tasks for the N2WS backup product.
 
 File name | Description

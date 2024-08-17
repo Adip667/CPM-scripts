@@ -1,0 +1,10 @@
+CPMCONFIG
+[SERVER]
+user=Admin
+password=1
+volume_option=new
+volume_size=6
+volume_type=gp3
+encryption_key=arn:aws:kms:us-east-1:4321:key/213b23ef-59df-47d4-9903-ebb44a30869f
+time_zone=Asia/Jerusalem
+CPMCONFIGEND

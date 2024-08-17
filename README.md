@@ -12,3 +12,4 @@ CustomExcelReport(AWS).py | Scenario example, here we are collecting info from e
 Reports2S3.py  | independent example, download various reports and upload them to AWS S3 report archive bucket, need to be run from EC2
 Using_APIKEY_ToGenerateTokens.sh | General Example, show how to call Obtain & refreash token from bash
 VariousListApis.sh | General Example, show how to call list RestAPI's from bash
+deploy_backup_server.tf | Terraform template to deploy N2WS server and configure with silent config(New_Deploy_SilentConfig.txt)
